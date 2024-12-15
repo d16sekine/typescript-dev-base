@@ -1,0 +1,12 @@
+{
+  "name": "typescript-dev-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/d16sekine/typescript-dev-base",
+  "author": "d-sekine <d16sekine@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
